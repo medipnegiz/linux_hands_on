@@ -1,2 +1,2 @@
-# linux_hands_on
+## Linux Hands On
 linux hands on studies
