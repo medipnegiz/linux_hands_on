@@ -2,4 +2,4 @@
 ### 🔖 Managing files in Linux
 ### 🔖 Environment variables
 ### 🔖 Managing users and groups
-### 🔖 Using package manager
+### 🔖 Using package managers
