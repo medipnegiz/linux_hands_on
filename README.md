@@ -13,4 +13,4 @@ Linux Hands On Studies [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d
 ### 🔖 Using package managers
 ### 🔖 Filters and Control Operators
 ### 🔖 Sed & Awk & Crontab
-### 🔖 7_Shell Scripting Basics
+### 🔖 Shell Scripting Basics
