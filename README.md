@@ -16,3 +16,4 @@ Linux Hands On Studies [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d
 ### 🔖 Shell Scripting Basics
 ### 🔖 Shell Scripting Conditional Statements
 ### 🔖 Shell Scripting Tools
+### 🔖 Shell Scripting Functions
