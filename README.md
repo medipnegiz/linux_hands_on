@@ -7,7 +7,7 @@ Linux Hands On Studies [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d
 <hr>
 
 ## Index 📜
-### 🔖 [Managing files in Linux]()
+### 🔖 [Managing files in Linux](https://github.com/medipnegiz/linux_hands_on/blob/main/1_Managing_files_in_linux.md)
 Purpose of the this hands-on training is to teach the students how to manage files in Linux.
 
 ### 🔖 Environment variables
