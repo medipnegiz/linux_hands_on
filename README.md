@@ -10,7 +10,7 @@ Linux Hands On Studies [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d
 ### 🔖 [Managing files in Linux](https://github.com/medipnegiz/linux_hands_on/blob/main/1_Managing_files_in_linux.md)
 Purpose of the this hands-on training is to teach the students how to manage files in Linux.
 
-### 🔖 [Environment variables]()
+### 🔖 [Environment variables](https://github.com/medipnegiz/linux_hands_on/blob/main/2_Environment_Variables.md)
 Purpose of the this hands-on training is to teach the students how to use environment variables.
 ### 🔖 Managing users and groups
 ### 🔖 Using package managers
