@@ -12,7 +12,10 @@ Purpose of the this hands-on training is to teach the students how to manage fil
 
 ### 🔖 [Environment variables](https://github.com/medipnegiz/linux_hands_on/blob/main/2_Environment_Variables.md)
 Purpose of the this hands-on training is to teach the students how to use environment variables.
-### 🔖 Managing users and groups
+
+### 🔖 [Managing users and groups]()
+Purpose of the this hands-on training is to teach the students how to manage users and groups.
+
 ### 🔖 Using package managers
 ### 🔖 Filters and Control Operators
 ### 🔖 Sed & Awk & Crontab
