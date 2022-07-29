@@ -16,7 +16,7 @@ Purpose of the this hands-on training is to teach the students how to use enviro
 ### 🔖 [Managing users and groups](https://github.com/medipnegiz/linux_hands_on/blob/main/3_Managing_Users_Groups.md)
 Purpose of the this hands-on training is to teach the students how to manage users and groups.
 
-### 🔖 [Using package managers]()
+### 🔖 [Using package managers](https://github.com/medipnegiz/linux_hands_on/blob/main/4_Using_Package_Managers.md)
 Purpose of the this hands-on training is to teach the students how to use package managers in Linux.​
 
 ### 🔖 Filters and Control Operators
