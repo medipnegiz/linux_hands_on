@@ -17,10 +17,11 @@ Purpose of the this hands-on training is to teach the students how to use enviro
 Purpose of the this hands-on training is to teach the students how to manage users and groups.
 
 ### 🔖 [Using package managers](https://github.com/medipnegiz/linux_hands_on/blob/main/4_Using_Package_Managers.md)
-Purpose of the this hands-on training is to teach the students how to use package managers in Linux.​
+Purpose of the this hands-on training is to teach the students how to use package managers in Linux.
 
-### 🔖 [Filters and Control Operators]()
-Purpose of the this hands-on training is to teach the students how to use filters and control operators in Linux.​
+### 🔖 [Filters and Control Operators](https://github.com/medipnegiz/linux_hands_on/blob/main/5_Filters_and_Control_Operators.md)
+Purpose of the this hands-on training is to teach the students how to use filters and control operators in Linux.
+
 ### 🔖 Sed & Awk & Crontab
 ### 🔖 Shell Scripting Basics
 ### 🔖 Shell Scripting Conditional Statements
