@@ -19,7 +19,8 @@ Purpose of the this hands-on training is to teach the students how to manage use
 ### 🔖 [Using package managers](https://github.com/medipnegiz/linux_hands_on/blob/main/4_Using_Package_Managers.md)
 Purpose of the this hands-on training is to teach the students how to use package managers in Linux.​
 
-### 🔖 Filters and Control Operators
+### 🔖 [Filters and Control Operators]()
+Purpose of the this hands-on training is to teach the students how to use filters and control operators in Linux.​
 ### 🔖 Sed & Awk & Crontab
 ### 🔖 Shell Scripting Basics
 ### 🔖 Shell Scripting Conditional Statements
