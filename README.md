@@ -25,7 +25,8 @@ Purpose of the this hands-on training is to teach the students how to use filter
 ### [🔖 Sed & Awk & Crontab](https://github.com/medipnegiz/linux_hands_on/blob/main/6_Sed_Awk_Crontab.md)
 Purpose of the this hands-on training is to teach the students how to use sed & awk command and crontab.
 
-### 🔖 Shell Scripting Basics
+### [🔖 Shell Scripting Basics](https://github.com/medipnegiz/linux_hands_on/blob/main/7_Shell_Scripting_Basics.md)
+Purpose of the this hands-on training is to teach the students how to script in shell.
 ### 🔖 Shell Scripting Conditional Statements
 ### 🔖 Shell Scripting Tools
 ### 🔖 Shell Scripting Functions
