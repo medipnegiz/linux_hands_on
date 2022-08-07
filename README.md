@@ -22,11 +22,13 @@ Purpose of the this hands-on training is to teach the students how to use packag
 ### 🔖 [Filters and Control Operators](https://github.com/medipnegiz/linux_hands_on/blob/main/5_Filters_and_Control_Operators.md)
 Purpose of the this hands-on training is to teach the students how to use filters and control operators in Linux.
 
-### [🔖 Sed & Awk & Crontab](https://github.com/medipnegiz/linux_hands_on/blob/main/6_Sed_Awk_Crontab.md)
+### 🔖 [Sed & Awk & Crontab](https://github.com/medipnegiz/linux_hands_on/blob/main/6_Sed_Awk_Crontab.md)
 Purpose of the this hands-on training is to teach the students how to use sed & awk command and crontab.
 
-### [🔖 Shell Scripting Basics](https://github.com/medipnegiz/linux_hands_on/blob/main/7_Shell_Scripting_Basics.md)
+### 🔖 [Shell Scripting Basics](https://github.com/medipnegiz/linux_hands_on/blob/main/7_Shell_Scripting_Basics.md)
 Purpose of the this hands-on training is to teach the students how to script in shell.
-### 🔖 Shell Scripting Conditional Statements
+
+### 🔖 [Shell Scripting Conditional Statements]()
+Purpose of the this hands-on training is to teach the students how to use conditional statements in shell.
 ### 🔖 Shell Scripting Tools
 ### 🔖 Shell Scripting Functions
