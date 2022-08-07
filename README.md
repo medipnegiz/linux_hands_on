@@ -34,5 +34,5 @@ Purpose of the this hands-on training is to teach the students how to use condit
 ### 🔖 [Shell Scripting Tools](https://github.com/medipnegiz/linux_hands_on/blob/main/9_Shell_Scripting_Tool.md)
 Purpose of the this hands-on training is to teach the students how to use loops in shell.
 
-### 🔖 [Shell Scripting Functions]()
+### 🔖 [Shell Scripting Functions](https://github.com/medipnegiz/linux_hands_on/blob/main/10_Shell_Scripting_Functions.md)
 Purpose of the this hands-on training is to teach the students how to use functions in shell.
