@@ -28,7 +28,8 @@ Purpose of the this hands-on training is to teach the students how to use sed & 
 ### 🔖 [Shell Scripting Basics](https://github.com/medipnegiz/linux_hands_on/blob/main/7_Shell_Scripting_Basics.md)
 Purpose of the this hands-on training is to teach the students how to script in shell.
 
-### 🔖 [Shell Scripting Conditional Statements]()
+### 🔖 [Shell Scripting Conditional Statements](https://github.com/medipnegiz/linux_hands_on/blob/main/8_Shell_Scripting_Conditional_Statements.md)
 Purpose of the this hands-on training is to teach the students how to use conditional statements in shell.
+
 ### 🔖 Shell Scripting Tools
 ### 🔖 Shell Scripting Functions
