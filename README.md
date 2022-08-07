@@ -31,5 +31,7 @@ Purpose of the this hands-on training is to teach the students how to script in 
 ### 🔖 [Shell Scripting Conditional Statements](https://github.com/medipnegiz/linux_hands_on/blob/main/8_Shell_Scripting_Conditional_Statements.md)
 Purpose of the this hands-on training is to teach the students how to use conditional statements in shell.
 
-### 🔖 Shell Scripting Tools
+### 🔖 [Shell Scripting Tools]()
+Purpose of the this hands-on training is to teach the students how to use loops in shell.
+
 ### 🔖 Shell Scripting Functions
